@@ -7,7 +7,7 @@
 
 ## Project Information
 
-### Installation
+### Software
 
 [Atmel Studio 7](http://studio.download.atmel.com/7.0.2389/as-installer-7.0.2389-full.exe "Atmel Studio 7")
 
@@ -18,6 +18,8 @@
 [NTGraph](https://www.codeproject.com/Articles/3214/2D-Graph-ActiveX-Control "NTGraph")
 
 [Matlab2020a](https://www.mathworks.com "Matlab")
+
+[SerialChart](http://starlino.com/data/serialchart/SerialChart_v034.zip "SerialChart")
 
 ### Hardware
 
