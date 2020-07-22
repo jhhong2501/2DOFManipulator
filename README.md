@@ -9,21 +9,21 @@
 
 ### Software
 
-[Atmel Studio 7](http://studio.download.atmel.com/7.0.2389/as-installer-7.0.2389-full.exe "Atmel Studio 7")
+[Atmel Studio 7](http://studio.download.atmel.com/7.0.2389/as-installer-7.0.2389-full.exe)
 
-[Visual Studio 2019](https://visualstudio.microsoft.com/ko/thank-you-downloading-visual-studio/?sku=Community&rel=16# "Visual Studio 2019")
+[Visual Studio 2019](https://visualstudio.microsoft.com/ko/thank-you-downloading-visual-studio/?sku=Community&rel=16#)
 
-[ODE(Open Dynamics Engine)](https://sourceforge.net/projects/opende/ "ODE")
+[ODE(Open Dynamics Engine)](https://sourceforge.net/projects/opende/)
 
-[NTGraph](https://www.codeproject.com/Articles/3214/2D-Graph-ActiveX-Control "NTGraph")
+[NTGraph](https://www.codeproject.com/Articles/3214/2D-Graph-ActiveX-Control)
 
-[Matlab2020a](https://www.mathworks.com "Matlab")
+[Matlab2020a](https://www.mathworks.com)
 
-[SerialChart](http://starlino.com/data/serialchart/SerialChart_v034.zip "SerialChart")
+[SerialChart](http://starlino.com/data/serialchart/SerialChart_v034.zip)
 
 ### Hardware
 
-[Atmega128 datasheet](http://ww1.microchip.com/downloads/en/devicedoc/doc2467.pdf "Atmega128 datasheet")
+[Atmega128 datasheet](http://ww1.microchip.com/downloads/en/devicedoc/doc2467.pdf)
 
 [Maxon DCX35L 48V](https://www.servo.com.sg/sites/default/files/2018-03/DCX_Program_2017-18_1.pdf "Maxon DCX35L 48V 23p")
 
@@ -31,11 +31,11 @@
 
 [Maxon Encoder](https://www.maxongroup.com/medias/sys_master/root/8841529491486/EN-436.pdf "Encoder ENX 16 EASY, 1 - 1024 CPT")
 
-[LS7366 datasheet](http://www.mdv.sk/beta/wp-content/uploads/2013/03/incremental_LS7366.pdf "LS7366 datasheet")
+[LS7366 datasheet](http://www.mdv.sk/beta/wp-content/uploads/2013/03/incremental_LS7366.pdf)
 
 [IRF540N datasheet](https://media.digikey.com/pdf/Data%20Sheets/Fairchild%20PDFs/IRF540N.pdf "Gate H-bridge datasheet")
 
-[ACS712-20A datasheet](https://www.sparkfun.com/datasheets/BreakoutBoards/0712.pdf "ACS712-20A datasheet")
+[ACS712-20A datasheet](https://www.sparkfun.com/datasheets/BreakoutBoards/0712.pdf)
 
 ### Reference
 
